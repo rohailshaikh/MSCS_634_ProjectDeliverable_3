@@ -1,0 +1,7 @@
+Conditions,Outcome,Train count,Train support,Train confidence,Train lift,Test matches,Test support,Test confidence,Test lift
+period=evening & temperature=warm,demand=high,887,0.0645,0.9652,3.0101,221,0.0603,0.991,2.0231
+period=evening & temperature=mild,demand=high,626,0.0455,0.7975,2.487,219,0.0556,0.9224,1.8831
+period=evening & weather=clear,demand=high,1290,0.0938,0.79,2.4636,393,0.0999,0.9237,1.8857
+day=working & period=evening,demand=high,1234,0.0898,0.78,2.4326,412,0.1068,0.9417,1.9227
+period=evening,demand=high,1685,0.1226,0.7301,2.2768,608,0.1476,0.8816,1.7998
+day=nonworking & period=midday,demand=high,783,0.057,0.717,2.2362,294,0.0691,0.8537,1.743
